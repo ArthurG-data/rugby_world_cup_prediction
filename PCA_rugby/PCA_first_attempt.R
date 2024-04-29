@@ -5,8 +5,10 @@ library(factoextra)
 library(ggplot2)
 library(ggrepel)
 library(corrplot)
-rwc23_file <- 'data/team_split.csv'
+rwc23_file <- 'split_df_teams.csv'
+rwc23_relative_file <- 'split_df_relative.csv'
 data <- read.csv(rwc23_file)
+data_relative <- read.csv(rwc23_relative_file)
 #Get Started
 
 offensive_metrics <- c(
@@ -61,7 +63,7 @@ bart <- function(dat){ #dat is your raw data
 }
 
 
-
+data.overall = data[, c(offensive_metrics, defensive_metrics)]
 data.offense = data[,offensive_metrics]
 data.defense = data[,defensive_metrics]
 
@@ -103,15 +105,18 @@ visualize_pca<-function(res)
 
 offense_pca <- do_PCA_prcomp(data.offense)
 defense_pca <- do_PCA_prcomp(data.defense)
+overall_pca <-do_PCA_prcomp(data.overall)
+
 visualize_pca(defense_pca)
 visualize_pca(offense_pca)
 
 #create matrix with 1 component of offense and defense, add Team 
-data$offense_PCA = offense_pca$x[,1]
-data$defense_PCA = defense_pca$x[,1]
+data$offense_PCA = offense_pca$x[,2]
+data$defense_PCA = defense_pca$x[,2]
+data$comp_2_overall = overall_pca$x[,1:2]
 
 ggplot(data = data,
-       aes(x = offense_PCA, y = defense_PCA, color = Team)) +
+       aes(x = comp_2_overall[,1], y = comp_2_overall[,2], color = Team)) +
   geom_point() +
   ggtitle("Offense vs Defense Component Projection") +
   geom_label_repel(aes(label = Team),
