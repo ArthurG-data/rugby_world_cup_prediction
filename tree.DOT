@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="Possession - 1st half <= -7.0\nsquared_error = 0.179\nsamples = 47\nvalue = 0.766", fillcolor="#eb9e67"] ;
+1 [label="Metres <= 110.5\nsquared_error = 0.25\nsamples = 12\nvalue = 0.5", fillcolor="#f2c09c"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Kicks from Hand <= 5.5\nsquared_error = 0.222\nsamples = 9\nvalue = 0.667", fillcolor="#eeab7b"] ;
+1 -> 2 ;
+3 [label="Possession - 2nd half <= 3.0\nsquared_error = 0.24\nsamples = 5\nvalue = 0.4", fillcolor="#f5cdb0"] ;
+2 -> 3 ;
+4 [label="squared_error = 0.0\nsamples = 2\nvalue = 0.0", fillcolor="#ffffff"] ;
+3 -> 4 ;
+5 [label="squared_error = 0.222\nsamples = 3\nvalue = 0.667", fillcolor="#eeab7b"] ;
+3 -> 5 ;
+6 [label="squared_error = 0.0\nsamples = 4\nvalue = 1.0", fillcolor="#e58139"] ;
+2 -> 6 ;
+7 [label="squared_error = 0.0\nsamples = 3\nvalue = 0.0", fillcolor="#ffffff"] ;
+1 -> 7 ;
+8 [label="Penalties Conceded Opp Half <= 2.5\nsquared_error = 0.122\nsamples = 35\nvalue = 0.857", fillcolor="#e99355"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="Scrums Total <= -7.5\nsquared_error = 0.034\nsamples = 28\nvalue = 0.964", fillcolor="#e68640"] ;
+8 -> 9 ;
+10 [label="squared_error = 0.0\nsamples = 1\nvalue = 0.0", fillcolor="#ffffff"] ;
+9 -> 10 ;
+11 [label="squared_error = 0.0\nsamples = 27\nvalue = 1.0", fillcolor="#e58139"] ;
+9 -> 11 ;
+12 [label="Possession - 1st half <= 9.0\nsquared_error = 0.245\nsamples = 7\nvalue = 0.429", fillcolor="#f4c9aa"] ;
+8 -> 12 ;
+13 [label="squared_error = 0.0\nsamples = 3\nvalue = 0.0", fillcolor="#ffffff"] ;
+12 -> 13 ;
+14 [label="squared_error = 0.188\nsamples = 4\nvalue = 0.75", fillcolor="#eca06a"] ;
+12 -> 14 ;
+}
