@@ -1,0 +1,115 @@
+,date,home_team,away_team,home_score,away_score,competition,stadium,city,country,neutral,Date,Venue,Neut.
+0,2021-02-06,Italy,France,10,50,Six_Nations_Championship,Stadio Olimpico,Rome,Italy,False,2021-02-06,Stadio Olimpico,False
+1,2021-02-06,England,Scotland,6,11,Six_Nations_Championship,Twickenham Stadium,London,England,False,2021-02-06,Twickenham Stadium,False
+2,2021-02-07,Wales,Ireland,21,16,Six_Nations_Championship,Millennium Stadium,Cardiff,Wales,False,2021-02-07,Millennium Stadium,False
+3,2021-02-13,England,Italy,41,18,Six_Nations_Championship,Twickenham Stadium,London,England,False,2021-02-13,Twickenham Stadium,False
+4,2021-02-13,Scotland,Wales,24,25,Six_Nations_Championship,Murrayfield Stadium,Edinburgh,Scotland,False,2021-02-13,Murrayfield Stadium,False
+5,2021-02-14,Ireland,France,13,15,Six_Nations_Championship,Aviva Stadium,Dublin,Ireland,False,2021-02-14,Aviva Stadium,False
+6,2021-02-27,Italy,Ireland,10,48,Six_Nations_Championship,Stadio Olimpico,Rome,Italy,False,2021-02-27,Stadio Olimpico,False
+7,2021-02-27,Wales,England,40,24,Six_Nations_Championship,Millennium Stadium,Cardiff,Wales,False,2021-02-27,Millennium Stadium,False
+8,2021-03-13,Italy,Wales,7,48,Six_Nations_Championship,Stadio Olimpico,Rome,Italy,False,2021-03-13,Stadio Olimpico,False
+9,2021-03-13,England,France,23,20,Six_Nations_Championship,Twickenham Stadium,London,England,False,2021-03-13,Twickenham Stadium,False
+10,2021-03-14,Scotland,Ireland,24,27,Six_Nations_Championship,Murrayfield Stadium,Edinburgh,Scotland,False,2021-03-14,Murrayfield Stadium,False
+11,2021-03-20,Scotland,Italy,52,10,Six_Nations_Championship,Murrayfield Stadium,Edinburgh,Scotland,False,2021-03-20,Murrayfield Stadium,False
+12,2021-03-20,Ireland,England,32,18,Six_Nations_Championship,Aviva Stadium,Dublin,Ireland,False,2021-03-20,Aviva Stadium,False
+13,2021-03-20,France,Wales,32,30,Six_Nations_Championship,Stade de France,Saint-Denis,France,False,2021-03-20,Stade de France,False
+14,2021-03-26,France,Scotland,23,27,Six_Nations_Championship,Stade de France,Saint-Denis,France,False,2021-03-26,Stade de France,False
+15,2022-02-05,Ireland,Wales,29,7,Six_Nations_Championship,Aviva Stadium,Dublin,Ireland,False,2022-02-05,Aviva Stadium,False
+16,2022-02-05,Scotland,England,20,17,Six_Nations_Championship,Murrayfield Stadium,Edinburgh,Scotland,False,2022-02-05,Murrayfield Stadium,False
+17,2022-02-06,France,Italy,37,10,Six_Nations_Championship,Stade de France,Saint-Denis,France,False,2022-02-06,Stade de France,False
+18,2022-02-12,Wales,Scotland,20,17,Six_Nations_Championship,Millennium Stadium,Cardiff,Wales,False,2022-02-12,Millennium Stadium,False
+19,2022-02-12,France,Ireland,30,24,Six_Nations_Championship,Stade de France,Saint-Denis,France,False,2022-02-12,Stade de France,False
+20,2022-02-13,Italy,England,0,33,Six_Nations_Championship,Stadio Olimpico,Rome,Italy,False,2022-02-13,Stadio Olimpico,False
+21,2022-02-26,Scotland,France,17,36,Six_Nations_Championship,Murrayfield Stadium,Edinburgh,Scotland,False,2022-02-26,Murrayfield Stadium,False
+22,2022-02-26,England,Wales,23,19,Six_Nations_Championship,Twickenham Stadium,London,England,False,2022-02-26,Twickenham Stadium,False
+23,2022-02-27,Ireland,Italy,57,6,Six_Nations_Championship,Aviva Stadium,Dublin,Ireland,False,2022-02-27,Aviva Stadium,False
+24,2022-03-11,Wales,France,9,13,Six_Nations_Championship,Millennium Stadium,Cardiff,Wales,False,2022-03-11,Millennium Stadium,False
+25,2022-03-12,Italy,Scotland,22,33,Six_Nations_Championship,Stadio Olimpico,Rome,Italy,False,2022-03-12,Stadio Olimpico,False
+26,2022-03-12,England,Ireland,15,32,Six_Nations_Championship,Twickenham Stadium,London,England,False,2022-03-12,Twickenham Stadium,False
+27,2022-03-19,Wales,Italy,21,22,Six_Nations_Championship,Millennium Stadium,Cardiff,Wales,False,2022-03-19,Millennium Stadium,False
+28,2022-03-19,Ireland,Scotland,26,5,Six_Nations_Championship,Aviva Stadium,Dublin,Ireland,False,2022-03-19,Aviva Stadium,False
+29,2022-03-19,France,England,25,13,Six_Nations_Championship,Stade de France,Saint-Denis,France,False,2022-03-19,Stade de France,False
+30,2023-02-04,Wales,Ireland,10,34,Six_Nations_Championship,Millennium Stadium,Cardiff,Wales,False,2023-02-04,Millennium Stadium,False
+31,2023-02-04,England,Scotland,23,29,Six_Nations_Championship,Twickenham Stadium,London,England,False,2023-02-04,Twickenham Stadium,False
+32,2023-02-05,Italy,France,24,29,Six_Nations_Championship,Stadio Olimpico,Rome,Italy,False,2023-02-05,Stadio Olimpico,False
+33,2023-02-11,Ireland,France,32,19,Six_Nations_Championship,Aviva Stadium,Dublin,Ireland,False,2023-02-11,Aviva Stadium,False
+34,2023-02-11,Scotland,Wales,35,7,Six_Nations_Championship,Murrayfield Stadium,Edinburgh,Scotland,False,2023-02-11,Murrayfield Stadium,False
+35,2023-02-12,England,Italy,31,14,Six_Nations_Championship,Twickenham Stadium,London,England,False,2023-02-12,Twickenham Stadium,False
+36,2023-02-25,Italy,Ireland,20,34,Six_Nations_Championship,Stadio Olimpico,Rome,Italy,False,2023-02-25,Stadio Olimpico,False
+37,2023-02-25,Wales,England,10,20,Six_Nations_Championship,Millennium Stadium,Cardiff,Wales,False,2023-02-25,Millennium Stadium,False
+38,2023-02-26,France,Scotland,32,21,Six_Nations_Championship,Stade de France,Saint-Denis,France,False,2023-02-26,Stade de France,False
+39,2023-03-11,Italy,Wales,17,29,Six_Nations_Championship,Stadio Olimpico,Rome,Italy,False,2023-03-11,Stadio Olimpico,False
+40,2023-03-11,England,France,10,53,Six_Nations_Championship,Twickenham Stadium,London,England,False,2023-03-11,Twickenham Stadium,False
+41,2023-03-12,Scotland,Ireland,7,22,Six_Nations_Championship,Murrayfield Stadium,Edinburgh,Scotland,False,2023-03-12,Murrayfield Stadium,False
+42,2023-03-18,Scotland,Italy,26,14,Six_Nations_Championship,Murrayfield Stadium,Edinburgh,Scotland,False,2023-03-18,Murrayfield Stadium,False
+43,2023-03-18,France,Wales,41,28,Six_Nations_Championship,Stade de France,Saint-Denis,France,False,2023-03-18,Stade de France,False
+44,2023-03-18,Ireland,England,29,16,Six_Nations_Championship,Aviva Stadium,Dublin,Ireland,False,2023-03-18,Aviva Stadium,False
+45,2024-02-02,France,Ireland,17,38,Six_Nations_Championship,Stade Vélodrome,Marseille,France,False,2024-02-02,Stade Vélodrome,False
+46,2024-02-03,Italy,England,24,27,Six_Nations_Championship,Stadio Olimpico,Rome,Italy,False,2024-02-03,Stadio Olimpico,False
+47,2024-02-03,Wales,Scotland,26,27,Six_Nations_Championship,Millennium Stadium,Cardiff,Wales,False,2024-02-03,Millennium Stadium,False
+48,2024-02-10,Scotland,France,16,20,Six_Nations_Championship,Murrayfield Stadium,Edinburgh,Scotland,False,2024-02-10,Murrayfield Stadium,False
+49,2024-02-10,England,Wales,16,14,Six_Nations_Championship,Twickenham Stadium,London,England,False,2024-02-10,Twickenham Stadium,False
+50,2024-02-11,Ireland,Italy,36,0,Six_Nations_Championship,Aviva Stadium,Dublin,Ireland,False,2024-02-11,Aviva Stadium,False
+51,2024-02-24,Ireland,Wales,31,7,Six_Nations_Championship,Aviva Stadium,Dublin,Ireland,False,2024-02-24,Aviva Stadium,False
+52,2024-02-24,Scotland,England,30,21,Six_Nations_Championship,Murrayfield Stadium,Edinburgh,Scotland,False,2024-02-24,Murrayfield Stadium,False
+53,2024-02-25,France,Italy,13,13,Six_Nations_Championship,Stade Pierre-Mauroy,Villeneuve-d'Ascq,France,False,2024-02-25,Stade Pierre-Mauroy,False
+54,2024-03-09,Italy,Scotland,31,29,Six_Nations_Championship,Stadio Olimpico,Rome,Italy,False,2024-03-09,Stadio Olimpico,False
+55,2024-03-09,England,Ireland,23,22,Six_Nations_Championship,Twickenham Stadium,London,England,False,2024-03-09,Twickenham Stadium,False
+56,2024-03-10,Wales,France,24,45,Six_Nations_Championship,Millennium Stadium,Cardiff,Wales,False,2024-03-10,Millennium Stadium,False
+57,2024-03-16,Wales,Italy,21,24,Six_Nations_Championship,Millennium Stadium,Cardiff,Wales,False,2024-03-16,Millennium Stadium,False
+58,2024-03-16,Ireland,Scotland,17,13,Six_Nations_Championship,Aviva Stadium,Dublin,Ireland,False,2024-03-16,Aviva Stadium,False
+59,2024-03-16,France,England,33,31,Six_Nations_Championship,Parc Olympique Lyonnais,Décines-Charpieu,France,False,2024-03-16,Parc Olympique Lyonnais,False
+60,2021-08-14,New Zealand,Australia,57,22,Rugby_Championship,Eden Park,Auckland,New Zealand,False,2021-08-14,Eden Park,False
+61,2021-08-14,South Africa,Argentina,32,12,Rugby_Championship,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,False,2021-08-14,Nelson Mandela Bay Stadium,False
+62,2021-08-21,Argentina,South Africa,10,29,Rugby_Championship,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,True,2021-08-21,Nelson Mandela Bay Stadium,True
+63,2021-09-05,Australia,New Zealand,21,38,Rugby_Championship,Perth Stadium,Perth,Australia,False,2021-09-05,Perth Stadium,False
+64,2021-09-12,New Zealand,Argentina,39,0,Rugby_Championship,Robina Stadium,Gold Coast,Australia,True,2021-09-12,Robina Stadium,True
+65,2021-09-12,South Africa,Australia,26,28,Rugby_Championship,Robina Stadium,Gold Coast [d],United States,True,2021-09-12,Robina Stadium,True
+66,2021-09-18,Australia,South Africa,30,17,Rugby_Championship,Lang Park,Brisbane,Australia,False,2021-09-18,Lang Park,False
+67,2021-09-18,Argentina,New Zealand,13,36,Rugby_Championship,Lang Park,Brisbane,Australia,True,2021-09-18,Lang Park,True
+68,2021-09-25,New Zealand,South Africa,19,17,Rugby_Championship,North Queensland Stadium,Townsville [e],Ireland,True,2021-09-25,North Queensland Stadium,True
+69,2021-09-25,Australia,Argentina,27,8,Rugby_Championship,North Queensland Stadium,Townsville [f],Australia,False,2021-09-25,North Queensland Stadium,False
+70,2021-10-02,Argentina,Australia,17,32,Rugby_Championship,Robina Stadium,Gold Coast [g],United States,True,2021-10-02,Robina Stadium,True
+71,2021-10-02,South Africa,New Zealand,31,29,Rugby_Championship,Robina Stadium,Gold Coast [h],Australia,True,2021-10-02,Robina Stadium,True
+72,2022-08-06,South Africa,New Zealand,26,10,Rugby_Championship,Mbombela Stadium,Mbombela,South Africa,False,2022-08-06,Mbombela Stadium,False
+73,2022-08-06,Argentina,Australia,26,41,Rugby_Championship,Estadio Malvinas Argentinas,Mendoza,Argentina,False,2022-08-06,Estadio Malvinas Argentinas,False
+74,2022-08-13,South Africa,New Zealand,23,35,Rugby_Championship,Ellis Park Stadium,Johannesburg,South Africa,False,2022-08-13,Ellis Park Stadium,False
+75,2022-08-13,Argentina,Australia,48,17,Rugby_Championship,Estadio San Juan del Bicentenario,San Juan,United States,True,2022-08-13,Estadio San Juan del Bicentenario,True
+76,2022-08-27,Australia,South Africa,25,17,Rugby_Championship,Adelaide Oval,Adelaide,Australia,False,2022-08-27,Adelaide Oval,False
+77,2022-08-27,New Zealand,Argentina,18,25,Rugby_Championship,Rugby League Park,Christchurch,New Zealand,False,2022-08-27,Rugby League Park,False
+78,2022-09-03,New Zealand,Argentina,53,3,Rugby_Championship,Waikato Stadium,Hamilton,Canada,True,2022-09-03,Waikato Stadium,True
+79,2022-09-03,Australia,South Africa,8,24,Rugby_Championship,Sydney Football Stadium,Sydney,Australia,False,2022-09-03,Sydney Football Stadium,False
+80,2022-09-15,Australia,New Zealand,37,39,Rugby_Championship,Docklands Stadium,Melbourne,Australia,False,2022-09-15,Docklands Stadium,False
+81,2022-09-17,Argentina,South Africa,20,36,Rugby_Championship,Estadio Libertadores de América,Buenos Aires[a],Argentina,False,2022-09-17,Estadio Libertadores de América,False
+82,2022-09-24,New Zealand,Australia,40,14,Rugby_Championship,Eden Park,Auckland,New Zealand,False,2022-09-24,Eden Park,False
+83,2022-09-24,South Africa,Argentina,38,21,Rugby_Championship,Kings Park Stadium,Durban,South Africa,False,2022-09-24,Kings Park Stadium,False
+84,2023-07-08,South Africa,Australia,43,12,Rugby_Championship,Loftus Versfeld Stadium,Pretoria,South Africa,False,2023-07-08,Loftus Versfeld Stadium,False
+85,2023-07-08,Argentina,New Zealand,12,41,Rugby_Championship,Estadio Malvinas Argentinas,Mendoza,Argentina,False,2023-07-08,Estadio Malvinas Argentinas,False
+86,2023-07-15,New Zealand,South Africa,35,20,Rugby_Championship,Mount Smart Stadium,Auckland,New Zealand,False,2023-07-15,Mount Smart Stadium,False
+87,2023-07-15,Australia,Argentina,31,34,Rugby_Championship,Western Sydney Stadium,Sydney,Australia,False,2023-07-15,Western Sydney Stadium,False
+88,2023-07-29,Australia,New Zealand,7,38,Rugby_Championship,Melbourne Cricket Ground,Melbourne,Australia,False,2023-07-29,Melbourne Cricket Ground,False
+89,2023-07-29,South Africa,Argentina,22,21,Rugby_Championship,Ellis Park Stadium,Johannesburg,South Africa,False,2023-07-29,Ellis Park Stadium,False
+90,2022-07-02,Australia A,Samoa,26,31,World_Rugby_Pacific_Nations_Cup,ANZ National Stadium,Suva,Fiji,True,2022-07-02,ANZ National Stadium,True
+91,2022-07-02,Fiji,Tonga,36,0,World_Rugby_Pacific_Nations_Cup,ANZ National Stadium,Suva,Fiji,False,2022-07-02,ANZ National Stadium,False
+92,2022-07-09,Samoa,Tonga,34,18,World_Rugby_Pacific_Nations_Cup,Churchill Park,Lautoka,Fiji,True,2022-07-09,Churchill Park,True
+93,2022-07-09,Fiji,Australia A,18,32,World_Rugby_Pacific_Nations_Cup,Churchill Park,Lautoka,Fiji,False,2022-07-09,Churchill Park,False
+94,2022-07-16,Tonga,Australia A,22,39,World_Rugby_Pacific_Nations_Cup,Churchill Park,Lautoka,Fiji,True,2022-07-16,Churchill Park,True
+95,2022-07-16,Fiji,Samoa,20,23,World_Rugby_Pacific_Nations_Cup,Churchill Park,Lautoka,Fiji,False,2022-07-16,Churchill Park,False
+96,2023-07-22,Fiji,Tonga,36,20,World_Rugby_Pacific_Nations_Cup,Churchill Park,Lautoka,Fiji,False,2023-07-22,Churchill Park,False
+97,2023-07-22,Japan,Samoa,22,24,World_Rugby_Pacific_Nations_Cup,Sapporo Dome,Sapporo,Japan,False,2023-07-22,Sapporo Dome,False
+98,2023-07-29,Samoa,Fiji,19,33,World_Rugby_Pacific_Nations_Cup,Apia Park,Apia,Samoa,False,2023-07-29,Apia Park,False
+99,2023-07-29,Japan,Tonga,21,16,World_Rugby_Pacific_Nations_Cup,Hanazono Rugby Stadium,Higashiōsaka,Japan,False,2023-07-29,Hanazono Rugby Stadium,False
+100,2023-08-05,Samoa,Tonga,34,9,World_Rugby_Pacific_Nations_Cup,Apia Park,Apia,Samoa,False,2023-08-05,Apia Park,False
+101,2023-08-05,Japan,Fiji,12,35,World_Rugby_Pacific_Nations_Cup,Chichibunomiya Rugby Stadium,Tokyo,Japan,False,2023-08-05,Chichibunomiya Rugby Stadium,False
+102,2022-05-29,Pakistan,Thailand,15,20,Asia_Rugby_Championship,Punjab Stadium,Lahore,Pakistan,False,2022-05-29,Punjab Stadium,False
+103,2022-06-01,Pakistan,Thailand,24,18,Asia_Rugby_Championship,Punjab Stadium,Lahore,Pakistan,False,2022-06-01,Punjab Stadium,False
+104,2022-07-03,Uzbekistan,Mongolia,17,10,Asia_Rugby_Championship,Dolen Omurzakov Stadium,Bishkek,Kyrgyzstan,True,2022-07-03,Dolen Omurzakov Stadium,True
+105,2022-07-03,Kyrgyzstan,Kazakhstan,5,115,Asia_Rugby_Championship,Dolen Omurzakov Stadium,Bishkek,Kyrgyzstan,False,2022-07-03,Dolen Omurzakov Stadium,False
+106,2022-07-06,Kyrgyzstan,Mongolia,7,69,Asia_Rugby_Championship,Dolen Omurzakov Stadium,Bishkek,Kyrgyzstan,False,2022-07-06,Dolen Omurzakov Stadium,False
+107,2022-07-06,Uzbekistan,Kazakhstan,24,32,Asia_Rugby_Championship,Dolen Omurzakov Stadium,Bishkek,Kyrgyzstan,True,2022-07-06,Dolen Omurzakov Stadium,True
+108,2022-11-19,India,Nepal,86,0,Asia_Rugby_Championship,Rabindra Sarobar Stadium,Kolkata,India,False,2022-11-19,Rabindra Sarobar Stadium,False
+109,2022-11-22,Nepal,Bangladesh,12,43,Asia_Rugby_Championship,Rabindra Sarobar Stadium,Kolkata,India,True,2022-11-22,Rabindra Sarobar Stadium,True
+110,2022-11-25,India,Bangladesh,82,0,Asia_Rugby_Championship,Rabindra Sarobar Stadium,Kolkata,India,False,2022-11-25,Rabindra Sarobar Stadium,False
+111,2023-06-03,Malaysia,South Korea,3,27,Asia_Rugby_Championship,Siadinha Hamzah Stadium,Kuala Lumpur,Malaysia,False,2023-06-03,Siadinha Hamzah Stadium,False
+112,2023-06-10,Hong Kong,Malaysia,88,9,Asia_Rugby_Championship,Hong Kong Football Club Stadium,Hong Kong,China,True,2023-06-10,Hong Kong Football Club Stadium,True
+113,2023-06-17,Hong Kong,South Korea,30,10,Asia_Rugby_Championship,Hong Kong Football Club Stadium,Hong Kong,China,True,2023-06-17,Hong Kong Football Club Stadium,True
