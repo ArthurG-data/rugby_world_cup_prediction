@@ -8,7 +8,10 @@ import seaborn as sns
 from sklearn.model_selection import train_test_split 
 
 def analyse_result(model,x,y, n_comp='all',reg='Logistic',test_split=0.3):
-
+    '''
+    create a confusion matrix with the classification results for logit or reg
+    not output, print a figure with results from testing and training set
+    '''
     fig, ax = plt.subplots(1, 2)
     fig.suptitle(f'Classification results for {reg} regression and {n_comp} components')
     #on the test
@@ -56,6 +59,10 @@ def create_summary_log(result, target=0.05, postive_odd=True ):
     return final
     
 def create_forest_plot(result_df_glm):
+    '''
+    input: a df created by create summary log
+    output: a forest plot with the features as y and odd rations with confidence interval as x
+    '''
     plt.figure(figsize=(6, 4), dpi=150)
     
     ci = [result_df_glm.iloc[::-1]['Odds'] - result_df_glm.iloc[::-1]['0.025'].values, result_df_glm.iloc[::-1]['0.975'].values - result_df_glm.iloc[::-1]['Odds']]
