@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 def create_rb_wc_df(save=False, percentage=True):
     '''
     Create a df from the rugbycology dataset,the team in split in team A and B
+    if percentage is true, will comput % of successful rucks, etc.
     '''
     rub_wc_df = pd.read_csv(current_dir+'/data/'+rubicology_file )
     variables_start = list(rub_wc_df.columns)
@@ -353,6 +354,10 @@ def filter_multicollinearity(diff_df, tolerance = 1, vif=10, verbose=True) :
     return df
 
 def create_random_split(data, win = 24):
+    '''
+    input: the df where each row is a team perfromance
+    output: a df, without 2 perfromance from the same game, of win wins and 47-wins losses
+    '''
     win_df = data[data['Score'] >0 ].reset_index(drop=True)
     loss_df = data[data['Score'] <0 ].reset_index(drop=True)
     ids = list(win_df['Game ID'].values)
