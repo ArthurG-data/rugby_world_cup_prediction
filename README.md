@@ -36,16 +36,10 @@ The dataset comprises match data from the Rugby World Cup 2023, including team p
 - PCA identified **Z key KPIs** as most influential in determining match results.
 - The custom ELO rating system correlated strongly with observed match outcomes, showcasing its potential as a predictive tool.
 
+Contribution of KPIs to Components
+
+<img src="figures/figure_feature_loading.png" alt="loading figure">
 ## Contribution
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements. Suggestions for additional analyses, new features, or enhanced visualizations are highly encouraged.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-For any questions or feedback, please contact:
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
 
 We hope this project inspires further research and collaboration in the exciting intersection of sports and machine learning!
