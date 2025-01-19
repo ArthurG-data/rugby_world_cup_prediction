@@ -36,10 +36,37 @@ The dataset comprises match data from the Rugby World Cup 2023, including team p
     - **odds_import_df**: Collection and analysis of odds from a betting website to evaluate the ELO system.
 
 ## Key Findings
-- Logistic regression achieved **X% accuracy** in predicting match outcomes.
-- Regularized regression provided robust predictions of score differences with an RMSE of **Y**.
-- PCA identified **Z key KPIs** as most influential in determining match results.
-- The custom ELO rating system correlated strongly with observed match outcomes, showcasing its potential as a predictive tool.
+
+### Principal Component Analysis (PCA):
+
+  - 29 performance indicators from Rugby World Cup 2023 data were reduced to 8 principal components, explaining 84.85% of the dataset's variance.
+  - Key components identified include:
+    - Possession (36% variance explained): Metrics related to ball control, such as possession time and successful rucks.
+    - Quick Breaks and Defense (12%): Metrics tied to tackles, turnovers, and clean breaks.
+    - Territory Control (11%): Focus on successful scrums and territorial kicks.
+
+### Logistic Regression (Match Outcome Prediction):
+
+- Logistic regression using all components achieved a 100% win prediction accuracy on the test set but struggled with -losses, correctly predicting only 50% of them.
+- Components 2 (Quick Breaks and Defense) and 3 (Territory Control) significantly impacted the odds of winning:
+- Component 2: 897% increase in winning probability per unit increase.
+- Component 3: 587% increase in winning probability per unit increase.
+
+### Linear Regression (Score Difference Prediction):
+
+- Regression using selected components yielded an R² of 0.84 with an RMSE of 12.83 on the test set.
+- The model performed well predicting wins but struggled with losses, especially in closely contested games.
+
+### Insights on Game Tactics:
+
+ - Teams focusing on fewer rucks, more clean breaks, and turnovers, as well as effective territorial kicks, had higher winning probabilities.
+ - Tactical emphasis on components like defensive actions and ground play efficiency contributed significantly to success.
+
+### Challenges and Recommendations:
+
+- Class imbalance and overrepresentation of strong teams in the dataset impacted model performance.
+Future studies should expand the dataset to include matches from multiple tournaments to improve model robustness.
+PCA, combined with regression models, provides a structured approach to identifying impactful performance indicators but requires further refinement for practical applications.
 
 Contribution of KPIs to Components
 
