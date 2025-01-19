@@ -62,12 +62,6 @@ The dataset comprises match data from the Rugby World Cup 2023, including team p
  - Teams focusing on fewer rucks, more clean breaks, and turnovers, as well as effective territorial kicks, had higher winning probabilities.
  - Tactical emphasis on components like defensive actions and ground play efficiency contributed significantly to success.
 
-### Challenges and Recommendations:
-
-- Class imbalance and overrepresentation of strong teams in the dataset impacted model performance.
-Future studies should expand the dataset to include matches from multiple tournaments to improve model robustness.
-PCA, combined with regression models, provides a structured approach to identifying impactful performance indicators but requires further refinement for practical applications.
-
 Contribution of KPIs to Components
 
 <img src="figures/figure_feature_loading.png" alt="loading figure">
@@ -87,6 +81,11 @@ Comparative Results Using Gap Score Predictions and Outcome Predictions
 Model Performance for Score Prediction
 
 <img src="figures/rmse_2.jpeg" alt="rmse figure">
+
+## Challenges and Recommendations
+Class imbalance and overrepresentation of strong teams in the dataset impacted model performance.
+Future studies should expand the dataset to include matches from multiple tournaments to improve model robustness.
+PCA, combined with regression models, provides a structured approach to identifying impactful performance indicators but requires further refinement for practical applications.
 
 ## Contribution
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements. Suggestions for additional analyses, new features, or enhanced visualizations are highly encouraged.
