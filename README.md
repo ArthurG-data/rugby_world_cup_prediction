@@ -46,7 +46,7 @@ Variance Explained by Each Components
 
 Comparative Results Using Gap Score Predictions and Outcome Predictions
 
-<img src="figures/score_gap-prediction.jpg" alt="prediction figure">
+<img src="figures/pred_winn_vs_score.jpeg" alt="prediction figure">
 
 ## Contribution
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements. Suggestions for additional analyses, new features, or enhanced visualizations are highly encouraged.
