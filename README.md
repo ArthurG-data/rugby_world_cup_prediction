@@ -44,6 +44,10 @@ Variance Explained by Each Components
 
 <img src="figures/single_component_variance.png" alt="variance figure">
 
+Components Selected for Analysis
+
+<img src="figures/pcavisualize_1.png" alt="selection figure">
+
 Comparative Results Using Gap Score Predictions and Outcome Predictions
 
 <img src="figures/pred_winn_vs_score.jpeg" alt="prediction figure">
