@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/img/banner_logo.webp" alt="banner logo">
+</p>
+
+
 # Predicting Outcomes and Scores in Rugby World Cup 2023
 
 ## Technologies Used
