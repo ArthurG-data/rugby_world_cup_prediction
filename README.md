@@ -39,6 +39,11 @@ The dataset comprises match data from the Rugby World Cup 2023, including team p
 Contribution of KPIs to Components
 
 <img src="figures/figure_feature_loading.png" alt="loading figure">
+
+Variance Explained by Each Components
+
+<img src="figures/single_component_variance.png" alt="variance figure">
+
 ## Contribution
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements. Suggestions for additional analyses, new features, or enhanced visualizations are highly encouraged.
 
