@@ -44,6 +44,10 @@ Variance Explained by Each Components
 
 <img src="figures/single_component_variance.png" alt="variance figure">
 
+Comparative Results Using Gap Score Predictions and Outcome Predictions
+
+<img src="figures/score_gap_prediction.jpg" alt="prediction figure">
+
 ## Contribution
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements. Suggestions for additional analyses, new features, or enhanced visualizations are highly encouraged.
 
