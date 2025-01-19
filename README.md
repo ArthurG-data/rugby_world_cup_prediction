@@ -52,6 +52,10 @@ Comparative Results Using Gap Score Predictions and Outcome Predictions
 
 <img src="figures/pred_winn_vs_score.jpeg" alt="prediction figure">
 
+Model Performance for Score Prediction
+
+<img src="figures/rmse_2.jpeg" alt="rmse figure">
+
 ## Contribution
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements. Suggestions for additional analyses, new features, or enhanced visualizations are highly encouraged.
 
